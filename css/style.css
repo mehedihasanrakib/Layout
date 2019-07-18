@@ -1,0 +1,78 @@
+body{}
+.mainbox{
+    background: blue;
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+}
+.col-1-3{
+	width: 33.33%;
+    height: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box
+}
+.col-1{
+    background: #af6666;
+    width: 100%;
+    height: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box
+}
+.col-1-2{    background: purple;
+	width: 50%;
+    height: 25%;
+    float: left;
+     padding: 10px;
+    box-sizing: border-box
+}
+.col-3-5{
+    background: yellow;
+	width: 60%;
+    height: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box
+}
+.col-1-5{
+    background: red;
+	width: 20%;
+    height: 25%;
+    float: right;
+    padding: 10px;
+    box-sizing: border-box
+}
+
+
+
+
+
+
+
+.yellow{background-color: #902222
+   
+}
+.black{
+   background-color: black;
+}
+.aqua{
+	background-color: aqua;
+}
+
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: black;
+}
+.white{
+    background-color: white;
+
+}
